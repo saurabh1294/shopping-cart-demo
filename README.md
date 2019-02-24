@@ -6,7 +6,7 @@ Code quality can be improved by usage of services and getting product data from
 a service instead of specifying static product list and quantity in the beginning. 
 
 
-Add/Update/Remove functionality and unit tests pending due to shortage of time.
+Add/Remove functionality and unit tests pending due to shortage of time.
 
 
 Reactive forms and RxJS can be used for more robust design. 
@@ -14,6 +14,16 @@ Reactive forms and RxJS can be used for more robust design.
 
 The responsive design (HTML markup) can be reused by tweaking it and using bootstrap 4
 reorder classes for mobile view, instead of replicating the markup for mobile view.
+
+# What works
+
+The desktop and mobile responsive view as given in the problem statement
+
+When a product quantity is changed, it changes all over the UI and also
+the subtotal as well as final total gets updated accordingly.
+
+
+
 
 ## To start the application
 Clone this repo and within the shopping-cart-demo directory, run npm install to install
