@@ -7,6 +7,11 @@ a service instead of specifying static product list and quantity in the beginnin
 Add/Update/Remove functionality and unit tests pending due to shortage of time.
 Reactive forms and RxJS can be used for more robust design.
 
+## To start the application
+Clone this repo and within the shopping-cart-demo directory, run npm install to install
+node dependencies. Run npm start to get the application up and running at 
+http://localhost:4200.
+
 
 ** Below are auto-generated README content **
 # ShoppingCartApp
